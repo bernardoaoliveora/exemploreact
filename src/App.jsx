@@ -70,7 +70,6 @@ livros: ["O Senhor dos Anéis", "A Revolução dos Bichos", "Heidi", "Diário de
       </header>
 
       <main className="cards-container">
-        aaa
         <Card
           icon={<IoRainy />}
           title="Som de Chuva"
